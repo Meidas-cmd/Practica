@@ -23,7 +23,7 @@
 
 ### Diagrama de clases
 
-![]()
+![](./img/imagenes-de-stitch.jpg)
 
 ### Codigo de plantuml
 
