@@ -3,11 +3,11 @@
 ## INDICE
 1.[Intro](https://github.com/Meidas-cmd/Practica/new/main#intro#1.-intro)
 
-2.[Estructura de clases](https://github.com/Meidas-cmd/Practica/new/main#2estructura-de-datos#2.-Estructura de datos)
+2.[Estructura de clases](https://github.com/Meidas-cmd/Practica/new/main#2estructura-de-datos)
 
-  -Diagrama de clases
-  -Codigo de plantuml
-  -Contenido de las clase(.java)
+  - Diagrama de clases
+  - Codigo de plantuml
+  - Contenido de las clase(.java)
 
 3.[Programa principal(nombreApp)](https://github.com/Meidas-cmd/Practica/new/main#3-programa-principal#3.-Programa_Principal)
 
