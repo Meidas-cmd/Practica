@@ -106,7 +106,10 @@ Habitacion "1" *-- "0..*" Electrodemestico : contiene >
 ### Contenido de las clases(.java)
 
 - Clase **Casa.java**
+
+  
   ````
+  
 public class casa {
 
     static  Scanner entrada = new Scanner(System.in);
@@ -235,9 +238,6 @@ public class casa {
 
 
 }
-
-  
-  ````
 
 ## 3. Programa principal
 
