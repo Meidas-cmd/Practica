@@ -15,12 +15,22 @@
 
 5.[Entrega](https://github.com/Meidas-cmd/Practica/new/main#5entrega#5.-Entrega)
 
-### Intro
+## Intro
 
-### 2.Estructura de datos
+> La practica consistira en ...
 
-### 3. Programa principal
+## 2.Estructura de datos
 
-### 4. Prueba
+### Diagrama de clases
 
-### 5.Entrega
+![]()
+
+### Codigo de plantuml
+
+### Contenido de las clases(.java)
+
+## 3. Programa principal
+
+## 4. Prueba
+
+## 5.Entrega
